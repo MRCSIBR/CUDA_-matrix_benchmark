@@ -1,6 +1,3 @@
-Of course. Here is a complete `README.md` file for this project, written in Markdown.
-
----
 
 # CUDA Matrix Multiplication Benchmark
 
